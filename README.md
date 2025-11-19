@@ -14,10 +14,10 @@ Hệ thống sử dụng dữ liệu mô phỏng CFD (Steady-state) để huấn
 DeepONet_Project/
 ├── checkpoints/            # Thư mục tự động lưu model và scalers sau khi train
 ├── requirements.txt        # Danh sách thư viện phụ thuộc
-├── model.py                # Kiến trúc mạng (BranchNet, TrunkNet, HybridDeepONet)
-├── data_loader.py          # Xử lý dữ liệu CSV, chuẩn hóa (Scaler), tạo dummy data
-├── train.py                # Script huấn luyện mô hình (Training Loop)
-└── inference.py            # Script chạy dự đoán thực tế (Real-time Prediction)
+├── Hybrid_DeepONet.py                # Kiến trúc mạng (BranchNet, TrunkNet, HybridDeepONet)
+├── DataLoader_Preprocessing.py          # Xử lý dữ liệu CSV, chuẩn hóa (Scaler), tạo dummy data
+├── Training.py                # Script huấn luyện mô hình (Training Loop)
+└── Realtime_Inference.py            # Script chạy dự đoán thực tế (Real-time Prediction)
 ```
 
 -----
