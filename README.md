@@ -1,9 +1,3 @@
-Chào bạn, đây là nội dung file `README.md` đã được định dạng chuẩn chuyên nghiệp (Standard Markdown) dành cho GitHub hoặc GitLab.
-
-Mình đã sắp xếp lại bố cục: **Giới thiệu -\> Cài đặt -\> Dữ liệu -\> Hướng dẫn sử dụng -\> Kiến trúc mô hình**, giúp người đọc dễ dàng tiếp cận dự án của bạn hơn.
-
-Bạn có thể copy toàn bộ nội dung bên dưới vào file `README.md`.
-
 -----
 
 # Starlet\_VirtualSensor: Hybrid DeepONet for Real-time CO2 Monitoring
